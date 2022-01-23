@@ -1,0 +1,44 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#main{
+	width: 100%;
+	height: 100%;
+	background-color: ;
+}
+#one{
+	width: 80%;
+	height: 800px;
+	background-color: white;
+	margin: auto;
+
+}
+
+
+#one1{
+	width: 300px;
+	height: 300px;
+	background-color: black;
+	margin-left: 30px;
+	float: left;
+	margin-top: 20px;
+}
+
+#S{
+	width: 300px;
+	height: 300px;
+	transition: 2s;
+
+	
+
+}
+
+#s:hover{
+	-ms-transform:scale(1.5);
+	-webkit-transform:scale(1.5);
+	transform: scale(1.5);
+	background-image: url('1.jpg');
+}
